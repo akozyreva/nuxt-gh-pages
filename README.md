@@ -1,6 +1,7 @@
 # nuxt-gh-pages
 
 It's project as an example for my article:
+
 https://medium.com/@kozyreva.hanna/nuxt-js-gh-pages-deployment-73b88aa3aa65
 
 ## Demo
