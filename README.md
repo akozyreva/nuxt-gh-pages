@@ -1,6 +1,10 @@
 # nuxt-gh-pages
 
-> My fabulous Nuxt.js project
+It's project as an example for my article:
+https://medium.com/@kozyreva.hanna/nuxt-js-gh-pages-deployment-73b88aa3aa65
+
+## Demo
+https://akozyreva.github.io/nuxt-gh-pages/
 
 ## Build Setup
 
@@ -11,12 +15,8 @@ $ npm install
 # serve with hot reload at localhost:3000
 $ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
+# generate static project and deploy it to gh-pagees branch
 $ npm run generate
+$ npm run deploy
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
